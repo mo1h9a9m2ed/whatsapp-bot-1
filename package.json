@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/mo1h9a9m2ed/whatsapp-bot-1.git"
   },
   "keywords": [
     "whatsapp",
@@ -16,12 +16,12 @@
     "multi-device"
   ],
   "author": "Sourav",
-  "developer": "@souravkl11",
+  "developer": "@mo1h9a9m2ed",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://github.com/mo1h9a9m2ed/whatsapp-bot-1/issues"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/mo1h9a9m2ed/whatsapp-bot-1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
